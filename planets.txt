@@ -5,4 +5,6 @@ Mars
 - Phobos
 - Deimos
 Jupiter
+- Io
+- Europa
 Saturn
